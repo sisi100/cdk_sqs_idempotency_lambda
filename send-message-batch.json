@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "1",
+    "MessageBody": "hoge1"
+  },
+  {
+    "Id": "2",
+    "MessageBody": "hoge2"
+  },
+  {
+    "Id": "3",
+    "MessageBody": "hoge3"
+  },
+  {
+    "Id": "4",
+    "MessageBody": "hoge4"
+  },
+  {
+    "Id": "5",
+    "MessageBody": "hoge5"
+  }
+]
